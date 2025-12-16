@@ -1,0 +1,4 @@
+.kr-header{ display:flex; align-items:center; justify-content:space-between; padding:.5rem 1rem; background:transparent }
+.kr-header__left{ display:flex; align-items:center; gap:.75rem }
+.kr-header__title{ font-size:1.125rem; font-weight:700 }
+.kr-header__right{ display:flex; align-items:center; gap:.5rem }

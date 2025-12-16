@@ -1,0 +1,4 @@
+.stat-card{ padding:.75rem; border-radius:8px; background:#fff; box-shadow:0 1px 6px rgba(0,0,0,.04) }
+.stat-card__label{ font-size:.85rem; color:#6b7280 }
+.stat-card__value{ font-size:1.25rem; font-weight:700; margin-top:.25rem }
+.stat-card__delta{ font-size:.85rem; color:#10b981; margin-top:.25rem }

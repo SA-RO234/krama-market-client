@@ -1,0 +1,11 @@
+.kr-btn{
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+.kr-btn.primary{ background:#2563eb; color:#fff }
+.kr-btn.secondary{ background:#e5e7eb; color:#111 }
+.kr-btn.link{ background:transparent; color:#2563eb; padding:0 }
+.kr-btn:disabled{ opacity:.6; cursor:not-allowed }
